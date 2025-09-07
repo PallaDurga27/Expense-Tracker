@@ -22,10 +22,10 @@ A simple and interactive **Expense Tracker** web application to help users monit
 ![Expense Tracker Screenshot 2](<img width="957" height="476" alt="image" src="https://github.com/user-attachments/assets/41bb40ee-dcc6-4f3a-9b3e-e19b5f95fd56" />)  
 ![Expense Tracker Screenshot 3](<img width="931" height="468" alt="image" src="https://github.com/user-attachments/assets/675ffef3-a6ed-4c25-b8e0-9fe03d18fff7" />)
 
+<img width="1013" height="543" alt="image" src="https://github.com/user-attachments/assets/0070739e-527d-498e-b56b-0c2718617678" />
+<img width="957" height="476" alt="image" src="https://github.com/user-attachments/assets/41bb40ee-dcc6-4f3a-9b3e-e19b5f95fd56" />
 <img width="931" height="468" alt="image" src="https://github.com/user-attachments/assets/c5bd5fa7-5228-4148-9843-7c6eb4e9fee8" />
 
-
-*(Replace with your own screenshots of the project)*
 
 ---
 
