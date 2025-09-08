@@ -23,13 +23,6 @@ A simple and interactive **Expense Tracker** web application to help users monit
 <img width="931" height="468" alt="image" src="https://github.com/user-attachments/assets/c5bd5fa7-5228-4148-9843-7c6eb4e9fee8" />
 
 
----
-
-## 🔗 Project Links
-
-- 🌐 [Click here to visit Expense Tracker]()
-- **Demo / Video Link:** [https://your-video-link.com](https://your-video-link.com) 
-- **GitHub Repository:** [https://github.com/YourUsername/Expense-Tracker](https://github.com/PallaDurga27/Expense-Tracker.git)
 
 
 ---
